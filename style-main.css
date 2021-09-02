@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+#header-nav img {
+  width: 70px;
+}
+.modal-popout-bg {
+  background-image: url(./img/casa1.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* .main-section {
+  margin-left: 5px;
+  margin-right: 5px;
+} */
+
+.section-title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.card {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  color: #000;
+}
+.card-deck {
+  width: 100%;
+}
+
+.card-deck {
+  margin-bottom: 30px;
+}
+
+.final-cards-buttons {
+  height: 40%;
+}
+
+.footer-img {
+  width: 90px;
+}
+
+/* login */
+
+.main-section-log {
+  background-image: url(./img/login.png);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
